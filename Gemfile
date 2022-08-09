@@ -54,9 +54,5 @@ end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-<<<<<<< Updated upstream
 gem 'devise'
 gem 'pry-rails'
-=======
-
->>>>>>> Stashed changes
